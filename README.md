@@ -162,14 +162,6 @@ This project demonstrates practical implementation of:
 
 The current implementation uses in-memory storage with Java collections. Data is not permanently stored and will be lost when the application restarts.
 
-## 👨‍💻 Author
-
-**Chamidu Manthilaka**
-
-IT Undergraduate | SLIIT Kandy
-
-GitHub: [Your GitHub Profile](YOUR_GITHUB_PROFILE_URL)
-
 ---
 
 ⭐ If you find this project useful, feel free to star the repository!
