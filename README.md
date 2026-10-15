@@ -65,7 +65,7 @@ Make sure you have installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone ridelink-modular-monolith
 ```
 
 ### 2. Navigate to the Project
@@ -163,5 +163,3 @@ This project demonstrates practical implementation of:
 The current implementation uses in-memory storage with Java collections. Data is not permanently stored and will be lost when the application restarts.
 
 ---
-
-⭐ If you find this project useful, feel free to star the repository!
